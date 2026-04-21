@@ -26,7 +26,11 @@ An end-to-end analytics platform that automatically ingests data from multiple s
 
 <img width="900" height="989" alt="screen1_dashboard" src="https://github.com/user-attachments/assets/5c907cde-1bd5-470c-a9f6-8410f374d818" />
 
+### Screen 2 — KPI Analytics
+
 <img width="900" height="674" alt="screen2_kpi" src="https://github.com/user-attachments/assets/9cd910b3-6e7b-4a85-855c-8ed400bff58d" />
+
+### Screen 3 — AI Insights
 
 <img width="900" height="550" alt="screen3_insights" src="https://github.com/user-attachments/assets/1410ce14-5dba-4efa-8eea-7b3a511b7c11" />
 
