@@ -225,7 +225,8 @@ bizinsight/
 ```
 
 ---
-
+## Sample
+<img file:///C:/Users/saudi/Downloads/screen1_dashboard.html />
 ## Getting Started
 
 ### Prerequisites
